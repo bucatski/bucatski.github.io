@@ -1,0 +1,10 @@
+html {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+body {
+    font-family: monospace;
+    max-width: 66ch;
+}
